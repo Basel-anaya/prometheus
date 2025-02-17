@@ -142,7 +142,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - HuggingFace for embeddings models
 - Qdrant team for vector database
 - FastAPI team for the web framework
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers. 
